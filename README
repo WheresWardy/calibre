@@ -1,0 +1,6 @@
+calibre
+-------
+
+Store copies of the Calibre (http://calibre-ebook.com/) binaries for use in other repositories and applications.
+
+Binaries are stored as [OS]-[ARCH] branches.
